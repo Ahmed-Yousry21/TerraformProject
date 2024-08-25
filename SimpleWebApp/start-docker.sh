@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#qqq Navigate to the directory containing your docker-compose.yml file
+#Navigate to the directory containing your docker-compose.yml file
 SCRIPT_DIR=$(dirname "$0")
 cd "$SCRIPT_DIR"
 
